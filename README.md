@@ -14,3 +14,7 @@ lua Bothelp3.lua
 
 To save and quit, say:
 quit
+
+
+
+Do not press the link. Just run the command.
